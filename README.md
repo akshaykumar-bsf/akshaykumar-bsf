@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar</h1>
 <h3 align="center">A passionate full stack developer specialized in PHP, Wordpress as backend and React as frontend</h3>
 
-- 🔭 I’m currently working on **Starter Templates**
-
 - 💬 Ask me about **react, wordpress, php**
 
 - 📫 How to reach me **akshayk@bsf.io**
